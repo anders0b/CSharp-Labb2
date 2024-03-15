@@ -16,12 +16,12 @@ namespace Labb2ProgTemplate.Services
         };
         private List<Product> Products { get; set; } = new()
         {
-            new Product("Heineken Non-Alcoholic", 0, 10.90, ""),
-            new Product("Stella Artois", 0, 21.50, ""),
-            new Product("Falcon Export", 0, 12.90, ""),
-            new Product("Sofiero Original", 0, 11.90, ""),
-            new Product("Castillo de Gredos Blanco", 0, 70.90, ""),
-            new Product("The Famous Grouse", 0, 170.90, "")
+            new Product("Teineken Non-Alcoholic", 0, 10.90, ""),
+            new Product("Bella Artois", 0, 21.50, ""),
+            new Product("Walcon Export", 0, 12.90, ""),
+            new Product("Hofiero Original", 0, 11.90, ""),
+            new Product("Castillo de Gredos Azul", 0, 70.90, ""),
+            new Product("The Famous Mouse", 0, 170.90, "")
         };
         public ShopService()
         {
